@@ -11,6 +11,9 @@
 ## Other Places you can find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mattstrapp/)
 [![AUR](https://img.shields.io/badge/AUR-grey?style=for-the-badge&logo=archlinux)](https://aur.archlinux.org/account/RossTheRoss)
+[![Personal Git](https://img.shields.io/badge/Personal%20Git-black?style=for-the-badge&logo=git)](https://git.mattstrapp.net/)
+
+
 
 
 
