@@ -1,0 +1,25 @@
+name: Add blog
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "41 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://mattstrapp.net/posts/index.xml"
+          committer_username: "Matt Strapp"
+          committer_email: "matt@mattstrapp.net"
+          commit_message: "Add a new blog post or two or ten"
