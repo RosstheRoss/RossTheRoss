@@ -15,11 +15,11 @@
 
 # Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Place where No Cars Go](https://mattstrapp.net/posts/no-cars-go/)
 - [Eclipse &lpar;obscured by clouds&rpar;](https://mattstrapp.net/posts/eclipse-obscured-by-clouds/)
 - [The Face of Legend](https://mattstrapp.net/posts/the-face-that-mesmorises-all/)
 - [Look at my works, ye mighty, and despair!](https://mattstrapp.net/posts/the-emperor-lies/)
 - [The Lady of Iron](https://mattstrapp.net/posts/la-dame-de-fer/)
-- [my little versailles](https://mattstrapp.net/posts/my-little-versailles/)
 <!-- BLOG-POST-LIST:END -->
 
 
