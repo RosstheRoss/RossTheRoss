@@ -1,10 +1,5 @@
 # Hello, world! 👋
 
-- 🔭 I’m currently working on [zorascript](https://github.com/RosstheRoss/zorascript), a Rust/Svelte application for parsing GBC Zelda passwords.
-- 🌱 I’m currently learning Rust.
-- My favourite languages to use are Go and C# for the backend and TypeScript for the frontend.
-- 💬 Ask me about DNS or Svelte
-
 ## Contact
 [![Matrix](https://img.shields.io/badge/Matrix-%40me%3Amattstrapp.net-green?style=for-the-badge&logo=matrix)](https://matrix.to/#/@me:mattstrapp.net)
 
