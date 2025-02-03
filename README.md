@@ -10,11 +10,11 @@
 
 # Posts
 <!-- BLOG-POST-LIST:START -->
+- [untitled](https://mattstrapp.net/posts/untitled-35/)
 - [Same as it Ever Was](https://mattstrapp.net/posts/same-as-it-ever-was/)
 - [Where No Cars Go](https://mattstrapp.net/posts/no-cars-go/)
 - [Eclipse &lpar;obscured by clouds&rpar;](https://mattstrapp.net/posts/eclipse-obscured-by-clouds/)
 - [The Face of Legend](https://mattstrapp.net/posts/the-face-that-mesmorises-all/)
-- [Look at my works, ye mighty, and despair!](https://mattstrapp.net/posts/the-emperor-lies/)
 <!-- BLOG-POST-LIST:END -->
 
 
